@@ -68,7 +68,7 @@ body{
             <section id="about" class="section feature-box ">
                 <h2 class="text-center text-uppercase my-5 pt-2 wow fadeIn" data-wow-delay="0.2s">Personnal  <strong>Branding</strong></h2>
 
-                <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s">Je suis Rebecca TABOUKOUNA je suis une jeune developpeur et passionnee du design et des nouvelles Technologies.</p>
+                <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s">Je suis Rebecca TABOUKOUNA, je suis une jeune developpeure et passionnée du design et des nouvelles Technologies.</p>
 
                 <!-- First row -->
                 <div class="row features-big text-center wow fadeIn" data-wow-delay="0.4s">
@@ -94,7 +94,7 @@ body{
                         <div class="card card-body yellow hoverable">
                             <i class="fas fa-code fa-3x mb-4" aria-hidden="true"></i>
                             <h5 class="font-weight-bold text-uppercase mb-4">Developpeure</h5>
-                            <p class="dark-grey-text">Je developpe des sites web et des applications mobiles, des chatbots. </p>
+                            <p class="dark-grey-text">Je developpe des sites web , des chatbots. </p>
                         </div>
                         <!--/.Panel-->
 
@@ -148,7 +148,7 @@ body{
                                     <h5 class="font-weight-bold mb-3"> Etudes universitaires</h5>
                                 </div>
                                 <p class="font-weight-bold ml-1 dark-grey-text mb-2">Septembre, 2018 - Present </p>
-                                <p class="mb-0 ml-1 light-grey-text">J'etudie à <strong>IPNET Institute Of Technology</strong>en <strong>Developpement Web Bases de Données Big Data</strong> </p>
+                                <p class="mb-0 ml-1 light-grey-text">J'etudie à <strong>IPNET Institute Of Technology</strong> en <strong>Developpement Web Bases de Données Big Data</strong> </p>
                             </blockquote>
 
                             <blockquote class="blockquote bq-warning mt-1 mb-4">
@@ -156,16 +156,16 @@ body{
                                     <h5 class="font-weight-bold mb-3">Freelancing </h5>
                                 </div>
                                 <p class="font-weight-bold ml-1 dark-grey-text mb-2">March 2019 - Present </p>
-                                <p class="mb-0 ml-1 light-grey-text">Je travaille en Freelance depuis plus d'un an et j' ai developpées une dizaine de solutions digitales. </p>
+                                <p class="mb-0 ml-1 light-grey-text">Je travaille en Freelance depuis plus d'un an</p>
                             </blockquote>
 
-                            <blockquote class="blockquote bq-warning">
+                            <!--<blockquote class="blockquote bq-warning">
                                 <div class="row"> <i class="fas fa-briefcase fa-x mb-1 mr-3 ml-3" aria-hidden="true"></i>
                                     <h5 class="font-weight-bold mb-3"> Developeur mobile</h5>
                                 </div>
                                 <p class="font-weight-bold ml-1 dark-grey-text mb-2"><strong>Décembre 2020 - Present </strong></p>
                                 <p class="mb-0 ml-1 light-grey-text">Developpeur Web de formation, j'ai appris par moi mème le developpement mobile qui me passionne tellement.</p>
-                            </blockquote>
+                            </blockquote>-->
 
                         </div>
                         <!--/First column-->

@@ -53,21 +53,22 @@
                         <span class="sr-only">(current)</span>
                     </a>
                     </li>
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle " id="navbarDropdownMenuLink" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">Mes Services</a>
+                    <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="{{ url('sites') }}">Sites Web</a>
+                       <!-- <a class="dropdown-item" href="{{ url('apps') }}">Apps Mobiles</a>-->
+                        <a class="dropdown-item" href="{{ url('graphs') }}">Graphisme</a>
+                    </div>
+                    </li>
                     <li class="nav-item">
                     <a class="nav-link " href="{{ url('cv') }}"> Mon C V</a>
                     </li>
                    
 
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle " id="navbarDropdownMenuLink" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">Mes Services</a>
-                    <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="{{ url('sites') }}">Sites Web</a>
-                        <a class="dropdown-item" href="{{ url('apps') }}">Apps Mobiles</a>
-                        <a class="dropdown-item" href="{{ url('graphs') }}">Graphisme</a>
-                    </div>
-                    </li>
+                   
                     <li class="nav-item">
                     <a class="nav-link " href="{{ url('/contact') }}">Nous Contacter</a>
                     </li>
@@ -150,9 +151,9 @@
         <li>
           <a href="{{url('sites')}}">Sites Web</a>
         </li>
-        <li>
+       <!-- <li>
           <a href="{{url('apps')}}">Applications Mobiles</a>
-        </li>
+        </li>-->
         <li>
           <a href="{{url('graphs')}}">Graphisme</a>
         </li>

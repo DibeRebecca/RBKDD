@@ -69,22 +69,19 @@ body{
                         <!-- Grid row -->
 
                         <!-- Grid row -->
-                        <div class="row mb-3">
+                      <!--  <div class="row mb-3">
 
-                            <!-- Grid column -->
+                           
                             <div class="col-1">
                                 <i class="fa fa-mail-forward fa-lg purple-text"></i>
                             </div>
-                            <!-- Grid column -->
-
-                            <!-- Grid column -->
                             <div class="col-xl-10 col-md-11 col-10">
                                 <h4 class="font-weight-bold mb-3" >Application mobile</h4>
                                 <p class="text-black" style="font-size:17px;">Offir vos services via une application mobile telechargeable sur PlayStore, Vous permet de rendre vos services plus accessibles à votre clientelle. </p>
                             </div>
-                            <!-- Grid column -->
+                        
 
-                        </div>
+                        </div> -->
                         <!-- Grid row -->
 
                         <!--Grid row-->
@@ -133,7 +130,7 @@ body{
                 <div class="row text-center">
 
                     <!-- Grid column -->
-                    <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+                    <div class="col-lg-6 col-md-12 mb-lg-0 mb-4">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1">
                             <img src="{{ asset('images/graph.jpg') }}" class="img-fluid" alt="Sample project image">
@@ -152,27 +149,27 @@ body{
                     <!-- Grid column -->
 
                     <!-- Grid column -->
-                    <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
-                        <!--Featured image-->
-                        <div class="view overlay rounded z-depth-1">
+                   <!-- <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+                        
+                       <div class="view overlay rounded z-depth-1">
                             <img src="{{ asset('images/app.jpg') }}" class="img-fluid" alt="Sample project image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
-                        <!--Excerpt-->
+                        
                         <div class="card-body pb-0">
                             <h4 class="font-weight-bold my-3" id="apps">Applications Mobiles </h4>
                             <p class="text-black" style="font-size:18px;"> Applications mobiles disponibles sur PlayStore.
                             </p>
                             
                             <a class="btn blue-gradient text-white btn-sm" style="border-radius:25px; width:130px;font-size:13px; height:40px" href="{{url('apps')}}"> Decouvrir</a>
-                        </div>
-                    </div>
+                        </div> 
+                    </div>-->
                     <!-- Grid column -->
 
                     <!-- Grid column -->
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-6 col-md-6">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1">
                             <img src="{{ asset('images/sites.jpg') }}" class="img-fluid" alt="Sample project image">
